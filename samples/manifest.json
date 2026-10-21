@@ -1,0 +1,1666 @@
+{
+ "version": 1,
+ "memories": [
+  {
+   "title": "Moving into the little flat",
+   "story": "Boxes everywhere and a kettle that only half worked. We ate noodles on the floor and called it home.",
+   "place": "Bristol",
+   "when": {
+    "precision": "day",
+    "year": 2016,
+    "month": 3,
+    "day": 12
+   },
+   "favourite": false,
+   "core": true,
+   "photos": [
+    "001-moving-into-the-little-flat-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "Bristol",
+    "latitude": 51.4545,
+    "longitude": -2.5879
+   }
+  },
+  {
+   "title": "First run along the harbour",
+   "story": "Slow, sweaty and very happy to have done it.",
+   "place": "Bristol Harbourside",
+   "when": {
+    "precision": "day",
+    "year": 2016,
+    "month": 4,
+    "day": 3
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "002-first-run-along-the-harbour-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "Bristol Harbourside",
+    "latitude": 51.449,
+    "longitude": -2.598
+   }
+  },
+  {
+   "title": "Mira's birthday picnic",
+   "story": "Strawberries, a borrowed blanket and a sudden shower we laughed through.",
+   "place": "Brandon Hill",
+   "when": {
+    "precision": "day",
+    "year": 2016,
+    "month": 5,
+    "day": 21
+   },
+   "favourite": true,
+   "core": false,
+   "photos": [],
+   "placeInfo": {
+    "name": "Brandon Hill",
+    "latitude": 51.453,
+    "longitude": -2.606
+   }
+  },
+  {
+   "title": "Learning to make bread",
+   "story": "Three flat loaves before one finally rose.",
+   "place": "Home",
+   "when": {
+    "precision": "month",
+    "year": 2016,
+    "month": 6,
+    "day": 1
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "004-learning-to-make-bread-1.jpg"
+   ]
+  },
+  {
+   "title": "Weekend in Cornwall",
+   "story": "Fish and chips on the harbour wall while gulls watched every bite.",
+   "place": "St Ives",
+   "when": {
+    "precision": "day",
+    "year": 2016,
+    "month": 7,
+    "day": 16
+   },
+   "favourite": true,
+   "core": false,
+   "photos": [
+    "005-weekend-in-cornwall-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "St Ives",
+    "latitude": 50.211,
+    "longitude": -5.48
+   }
+  },
+  {
+   "title": "Festival in the fields",
+   "story": "Muddy boots, good music and a sunset we still talk about.",
+   "place": "Somerset",
+   "when": {
+    "precision": "day",
+    "year": 2016,
+    "month": 8,
+    "day": 27
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "006-festival-in-the-fields-1.jpg"
+   ]
+  },
+  {
+   "title": "Autumn walk in the woods",
+   "story": "Leaves crunching underfoot and a flask of hot chocolate.",
+   "place": "Leigh Woods",
+   "when": {
+    "precision": "day",
+    "year": 2016,
+    "month": 10,
+    "day": 9
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "007-autumn-walk-in-the-woods-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "Leigh Woods",
+    "latitude": 51.46,
+    "longitude": -2.64
+   }
+  },
+  {
+   "title": "First Thanksgiving with friends",
+   "story": "Twelve people around a table meant for six.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2016,
+    "month": 11,
+    "day": 24
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Christmas Eve lights",
+   "story": "Walked the streets looking at every window display.",
+   "place": "Bath",
+   "when": {
+    "precision": "day",
+    "year": 2016,
+    "month": 12,
+    "day": 24
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [],
+   "placeInfo": {
+    "name": "Bath",
+    "latitude": 51.3811,
+    "longitude": -2.359
+   }
+  },
+  {
+   "title": "Started the photo wall",
+   "story": "A wall of little prints that kept growing all year.",
+   "place": "Home",
+   "when": {
+    "precision": "year",
+    "year": 2016,
+    "month": 7,
+    "day": 1
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Snow day",
+   "story": "The city stopped and we built a lopsided snowman.",
+   "place": "Bristol",
+   "when": {
+    "precision": "day",
+    "year": 2017,
+    "month": 1,
+    "day": 14
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "011-snow-day-1.jpg"
+   ]
+  },
+  {
+   "title": "Pottery class",
+   "story": "My bowl came out more like a plate. Keeping it anyway.",
+   "place": "Stokes Croft",
+   "when": {
+    "precision": "day",
+    "year": 2017,
+    "month": 2,
+    "day": 18
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "012-pottery-class-1.jpg"
+   ]
+  },
+  {
+   "title": "Lisbon at last",
+   "story": "Trams up impossible hills and pastéis de nata still warm.",
+   "place": "Lisbon",
+   "when": {
+    "precision": "day",
+    "year": 2017,
+    "month": 4,
+    "day": 15
+   },
+   "favourite": true,
+   "core": true,
+   "photos": [
+    "013-lisbon-at-last-1.jpg",
+    "013-lisbon-at-last-2.jpg",
+    "013-lisbon-at-last-3.jpg"
+   ],
+   "placeInfo": {
+    "name": "Lisbon",
+    "latitude": 38.7223,
+    "longitude": -9.1393
+   }
+  },
+  {
+   "title": "Sunset at the miradouro",
+   "story": "The whole city turned gold for ten minutes.",
+   "place": "Miradouro da Senhora do Monte",
+   "when": {
+    "precision": "day",
+    "year": 2017,
+    "month": 4,
+    "day": 17
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [],
+   "placeInfo": {
+    "name": "Miradouro da Senhora do Monte",
+    "latitude": 38.7191,
+    "longitude": -9.1327
+   }
+  },
+  {
+   "title": "Allotment first harvest",
+   "story": "Radishes, tiny and spicy and entirely ours.",
+   "place": "Allotment",
+   "when": {
+    "precision": "day",
+    "year": 2017,
+    "month": 6,
+    "day": 10
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Wild swimming",
+   "story": "Cold enough to take your breath, beautiful enough to stay.",
+   "place": "River Wye",
+   "when": {
+    "precision": "day",
+    "year": 2017,
+    "month": 7,
+    "day": 29
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "016-wild-swimming-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "River Wye",
+    "latitude": 51.8,
+    "longitude": -2.67
+   }
+  },
+  {
+   "title": "Friends' wedding",
+   "story": "Danced until the band packed up around us.",
+   "place": "Cotswolds",
+   "when": {
+    "precision": "day",
+    "year": 2017,
+    "month": 9,
+    "day": 2
+   },
+   "favourite": true,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Pumpkin carving night",
+   "story": "Mira's looked like a cat. Mine looked like a potato.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2017,
+    "month": 10,
+    "day": 31
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "018-pumpkin-carving-night-1.jpg"
+   ]
+  },
+  {
+   "title": "New Year on the rooftop",
+   "story": "Fireworks from three directions at once.",
+   "place": "Bristol",
+   "when": {
+    "precision": "day",
+    "year": 2017,
+    "month": 12,
+    "day": 31
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Read 30 books",
+   "story": "Kept a list on the fridge. Best one: a tiny book about the sea.",
+   "place": "Home",
+   "when": {
+    "precision": "year",
+    "year": 2017,
+    "month": 7,
+    "day": 1
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "The proposal",
+   "story": "On the bench by the water where we had our first coffee. She said yes before I finished.",
+   "place": "Bristol Harbourside",
+   "when": {
+    "precision": "day",
+    "year": 2018,
+    "month": 2,
+    "day": 10
+   },
+   "favourite": true,
+   "core": true,
+   "photos": [
+    "021-the-proposal-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "Bristol Harbourside",
+    "latitude": 51.449,
+    "longitude": -2.598
+   }
+  },
+  {
+   "title": "Engagement dinner",
+   "story": "Both families around one table for the first time.",
+   "place": "Bristol",
+   "when": {
+    "precision": "day",
+    "year": 2018,
+    "month": 3,
+    "day": 24
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Kyoto in spring",
+   "story": "Late cherry blossom and a temple garden so quiet you could hear the moss.",
+   "place": "Kyoto",
+   "when": {
+    "precision": "day",
+    "year": 2018,
+    "month": 5,
+    "day": 5
+   },
+   "favourite": true,
+   "core": true,
+   "photos": [
+    "023-kyoto-in-spring-1.jpg",
+    "023-kyoto-in-spring-2.jpg",
+    "023-kyoto-in-spring-3.jpg"
+   ],
+   "placeInfo": {
+    "name": "Kyoto",
+    "latitude": 35.0116,
+    "longitude": 135.7681
+   }
+  },
+  {
+   "title": "Fushimi Inari at dawn",
+   "story": "Ten thousand gates and nobody else awake.",
+   "place": "Fushimi Inari",
+   "when": {
+    "precision": "day",
+    "year": 2018,
+    "month": 5,
+    "day": 8
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "024-fushimi-inari-at-dawn-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "Fushimi Inari",
+    "latitude": 34.9671,
+    "longitude": 135.7727
+   }
+  },
+  {
+   "title": "Garden party",
+   "story": "Fairy lights, lemonade and far too many sausages.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2018,
+    "month": 7,
+    "day": 14
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Our wedding",
+   "story": "Rain in the morning, sun by the vows. Everyone we love in one field.",
+   "place": "Somerset",
+   "when": {
+    "precision": "day",
+    "year": 2018,
+    "month": 8,
+    "day": 25
+   },
+   "favourite": true,
+   "core": true,
+   "photos": [
+    "026-our-wedding-1.jpg",
+    "026-our-wedding-2.jpg"
+   ]
+  },
+  {
+   "title": "Honeymoon in the Highlands",
+   "story": "Mountains, lochs and one very determined midge.",
+   "place": "Glencoe",
+   "when": {
+    "precision": "day",
+    "year": 2018,
+    "month": 9,
+    "day": 8
+   },
+   "favourite": true,
+   "core": false,
+   "photos": [],
+   "placeInfo": {
+    "name": "Glencoe",
+    "latitude": 56.6826,
+    "longitude": -5.1023
+   }
+  },
+  {
+   "title": "Back to work",
+   "story": "Strange to be back. Brought shortbread for everyone.",
+   "place": "Office",
+   "when": {
+    "precision": "day",
+    "year": 2018,
+    "month": 10,
+    "day": 20
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "First tree as a married couple",
+   "story": "Too big for the room. Perfect.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2018,
+    "month": 12,
+    "day": 15
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "029-first-tree-as-a-married-couple-1.jpg"
+   ]
+  },
+  {
+   "title": "Learned to cook dal",
+   "story": "Finally got Mum's recipe right.",
+   "place": "Home",
+   "when": {
+    "precision": "year",
+    "year": 2018,
+    "month": 7,
+    "day": 1
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Big news",
+   "story": "Two lines. We sat on the kitchen floor and cried and laughed.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2019,
+    "month": 1,
+    "day": 20
+   },
+   "favourite": true,
+   "core": true,
+   "photos": []
+  },
+  {
+   "title": "Ava is born",
+   "story": "Small, loud and completely perfect. The world got bigger tonight.",
+   "place": "St Michael's Hospital",
+   "when": {
+    "precision": "day",
+    "year": 2019,
+    "month": 3,
+    "day": 30
+   },
+   "favourite": true,
+   "core": true,
+   "photos": [
+    "032-ava-is-born-1.jpg"
+   ]
+  },
+  {
+   "title": "First walk with the pram",
+   "story": "Ten minutes round the block felt like an expedition.",
+   "place": "Bristol",
+   "when": {
+    "precision": "day",
+    "year": 2019,
+    "month": 4,
+    "day": 14
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "First Father's Day",
+   "story": "Ava slept through it. Best gift.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2019,
+    "month": 6,
+    "day": 16
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Beach with a baby",
+   "story": "Mostly shade, sunscreen and sand in everything.",
+   "place": "Sandbanks",
+   "when": {
+    "precision": "day",
+    "year": 2019,
+    "month": 7,
+    "day": 27
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "035-beach-with-a-baby-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "Sandbanks",
+    "latitude": 50.682,
+    "longitude": -1.948
+   }
+  },
+  {
+   "title": "Ava's first laugh",
+   "story": "At the dog next door. Nobody else could get it again.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2019,
+    "month": 9,
+    "day": 21
+   },
+   "favourite": true,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Sleepless month",
+   "story": "Teeth arriving. Coffee arriving faster.",
+   "place": "Home",
+   "when": {
+    "precision": "month",
+    "year": 2019,
+    "month": 10,
+    "day": 1
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Ava's first Christmas",
+   "story": "She loved the paper far more than the presents.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2019,
+    "month": 12,
+    "day": 25
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Started saving for a house",
+   "story": "A jar on the shelf and a very serious spreadsheet.",
+   "place": "Home",
+   "when": {
+    "precision": "year",
+    "year": 2019,
+    "month": 7,
+    "day": 1
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Leap day pancakes",
+   "story": "Pancakes because why not.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2020,
+    "month": 2,
+    "day": 29
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "040-leap-day-pancakes-1.jpg"
+   ]
+  },
+  {
+   "title": "Lockdown garden camp",
+   "story": "Pitched the tent on the lawn and watched the stars.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2020,
+    "month": 4,
+    "day": 11
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Pepper comes home",
+   "story": "A scruffy rescue terrier who chose us within a minute.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2020,
+    "month": 5,
+    "day": 23
+   },
+   "favourite": true,
+   "core": true,
+   "photos": []
+  },
+  {
+   "title": "Ava's first steps",
+   "story": "Three wobbly steps to Pepper, then a proud sit-down.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2020,
+    "month": 6,
+    "day": 20
+   },
+   "favourite": true,
+   "core": true,
+   "photos": []
+  },
+  {
+   "title": "Socially distant picnic",
+   "story": "Grandparents at one end of the blanket, waving across.",
+   "place": "Ashton Court",
+   "when": {
+    "precision": "day",
+    "year": 2020,
+    "month": 8,
+    "day": 8
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "044-socially-distant-picnic-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "Ashton Court",
+    "latitude": 51.444,
+    "longitude": -2.638
+   }
+  },
+  {
+   "title": "Baking banana bread, again",
+   "story": "The tenth loaf. Still good.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2020,
+    "month": 10,
+    "day": 17
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "045-baking-banana-bread-again-1.jpg"
+   ]
+  },
+  {
+   "title": "Video call Christmas",
+   "story": "Everyone squeezed onto one screen.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2020,
+    "month": 12,
+    "day": 24
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "The year at home",
+   "story": "Small rituals kept us going: Friday pizza, Sunday walks.",
+   "place": "Home",
+   "when": {
+    "precision": "year",
+    "year": 2020,
+    "month": 7,
+    "day": 1
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Ava turns two",
+   "story": "A dinosaur cake and a lot of roaring.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2021,
+    "month": 3,
+    "day": 30
+   },
+   "favourite": true,
+   "core": false,
+   "photos": [
+    "048-ava-turns-two-1.jpg"
+   ]
+  },
+  {
+   "title": "Keys to our house",
+   "story": "A creaky door, a lemon tree and a lot of work. Ours.",
+   "place": "Clifton",
+   "when": {
+    "precision": "day",
+    "year": 2021,
+    "month": 5,
+    "day": 15
+   },
+   "favourite": true,
+   "core": true,
+   "photos": [
+    "049-keys-to-our-house-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "Clifton",
+    "latitude": 51.457,
+    "longitude": -2.62
+   }
+  },
+  {
+   "title": "Painting Ava's room",
+   "story": "Sea green, at her insistence.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2021,
+    "month": 6,
+    "day": 12
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "050-painting-ava-s-room-1.jpg"
+   ]
+  },
+  {
+   "title": "Lake District camping",
+   "story": "Woke up to mist on the water and Pepper chasing ducks.",
+   "place": "Lake District",
+   "when": {
+    "precision": "day",
+    "year": 2021,
+    "month": 7,
+    "day": 24
+   },
+   "favourite": true,
+   "core": false,
+   "photos": [
+    "051-lake-district-camping-1.jpg",
+    "051-lake-district-camping-2.jpg"
+   ],
+   "placeInfo": {
+    "name": "Lake District",
+    "latitude": 54.4609,
+    "longitude": -3.0886
+   }
+  },
+  {
+   "title": "Ava's first day at nursery",
+   "story": "She walked in without looking back. I didn't manage the same.",
+   "place": "Nursery",
+   "when": {
+    "precision": "day",
+    "year": 2021,
+    "month": 9,
+    "day": 6
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Conker hunting",
+   "story": "Pockets full of shiny conkers.",
+   "place": "Leigh Woods",
+   "when": {
+    "precision": "day",
+    "year": 2021,
+    "month": 10,
+    "day": 30
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "053-conker-hunting-1.jpg"
+   ]
+  },
+  {
+   "title": "Christmas market",
+   "story": "Mulled cider and a carousel ride.",
+   "place": "Bath",
+   "when": {
+    "precision": "day",
+    "year": 2021,
+    "month": 12,
+    "day": 18
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [],
+   "placeInfo": {
+    "name": "Bath",
+    "latitude": 51.3811,
+    "longitude": -2.359
+   }
+  },
+  {
+   "title": "Grew our first tomatoes",
+   "story": "Too many tomatoes. Gave them to every neighbour.",
+   "place": "Home",
+   "when": {
+    "precision": "year",
+    "year": 2021,
+    "month": 7,
+    "day": 1
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Frosty morning walk",
+   "story": "Every branch iced white.",
+   "place": "Ashton Court",
+   "when": {
+    "precision": "day",
+    "year": 2022,
+    "month": 1,
+    "day": 8
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "056-frosty-morning-walk-1.jpg"
+   ]
+  },
+  {
+   "title": "Spring cleaning the garden",
+   "story": "Found a hedgehog house the old owners left.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2022,
+    "month": 3,
+    "day": 19
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "057-spring-cleaning-the-garden-1.jpg"
+   ]
+  },
+  {
+   "title": "Ava turns three",
+   "story": "Party in the park with bubbles and too much cake.",
+   "place": "Victoria Park",
+   "when": {
+    "precision": "day",
+    "year": 2022,
+    "month": 4,
+    "day": 30
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Leo is born",
+   "story": "Calm and curious from the very first minute. Ava wants to hold him all day.",
+   "place": "St Michael's Hospital",
+   "when": {
+    "precision": "day",
+    "year": 2022,
+    "month": 7,
+    "day": 11
+   },
+   "favourite": true,
+   "core": true,
+   "photos": [
+    "059-leo-is-born-1.jpg"
+   ]
+  },
+  {
+   "title": "Big sister",
+   "story": "Ava read Leo a story. He fell asleep in the first page.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2022,
+    "month": 8,
+    "day": 20
+   },
+   "favourite": true,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Apple picking",
+   "story": "Pepper ate the windfalls.",
+   "place": "Orchard",
+   "when": {
+    "precision": "day",
+    "year": 2022,
+    "month": 10,
+    "day": 15
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "061-apple-picking-1.jpg"
+   ]
+  },
+  {
+   "title": "Snowy Saturday",
+   "story": "Leo's first snow, mostly from inside the pram.",
+   "place": "Bristol",
+   "when": {
+    "precision": "day",
+    "year": 2022,
+    "month": 12,
+    "day": 10
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "062-snowy-saturday-1.jpg"
+   ]
+  },
+  {
+   "title": "Started the family recipe book",
+   "story": "Every grandparent wrote one recipe.",
+   "place": "Home",
+   "when": {
+    "precision": "year",
+    "year": 2022,
+    "month": 7,
+    "day": 1
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Valentine's at the little Italian",
+   "story": "Our first evening out in months.",
+   "place": "Bristol",
+   "when": {
+    "precision": "day",
+    "year": 2023,
+    "month": 2,
+    "day": 14
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Easter egg hunt",
+   "story": "Ava found them all. Leo found one and ate the foil.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2023,
+    "month": 4,
+    "day": 8
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "065-easter-egg-hunt-1.jpg"
+   ]
+  },
+  {
+   "title": "Iceland road trip",
+   "story": "Waterfalls around every bend and daylight that never ended.",
+   "place": "Iceland",
+   "when": {
+    "precision": "day",
+    "year": 2023,
+    "month": 6,
+    "day": 3
+   },
+   "favourite": true,
+   "core": true,
+   "photos": [
+    "066-iceland-road-trip-1.jpg",
+    "066-iceland-road-trip-2.jpg",
+    "066-iceland-road-trip-3.jpg"
+   ],
+   "placeInfo": {
+    "name": "Iceland",
+    "latitude": 64.1466,
+    "longitude": -21.9426
+   }
+  },
+  {
+   "title": "Black sand beach",
+   "story": "Basalt columns and waves that meant business.",
+   "place": "Reynisfjara",
+   "when": {
+    "precision": "day",
+    "year": 2023,
+    "month": 6,
+    "day": 6
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "067-black-sand-beach-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "Reynisfjara",
+    "latitude": 63.4044,
+    "longitude": -19.045
+   }
+  },
+  {
+   "title": "Leo's first birthday",
+   "story": "Smash cake. He took it very seriously.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2023,
+    "month": 7,
+    "day": 22
+   },
+   "favourite": true,
+   "core": false,
+   "photos": [
+    "068-leo-s-first-birthday-1.jpg"
+   ]
+  },
+  {
+   "title": "Ava starts school",
+   "story": "Big bag, small shoes, huge grin.",
+   "place": "Primary school",
+   "when": {
+    "precision": "day",
+    "year": 2023,
+    "month": 9,
+    "day": 4
+   },
+   "favourite": true,
+   "core": true,
+   "photos": [
+    "069-ava-starts-school-1.jpg"
+   ]
+  },
+  {
+   "title": "Bonfire with neighbours",
+   "story": "Sparklers, toffee apples and Pepper hiding under the bench.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2023,
+    "month": 10,
+    "day": 21
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Making paper snowflakes",
+   "story": "The window became a blizzard.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2023,
+    "month": 12,
+    "day": 2
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Learned to swim",
+   "story": "Ava swam a whole width on her own.",
+   "place": "Leisure centre",
+   "when": {
+    "precision": "year",
+    "year": 2023,
+    "month": 7,
+    "day": 1
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Board game night",
+   "story": "Ava won. Again. Suspicious.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2024,
+    "month": 1,
+    "day": 27
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "073-board-game-night-1.jpg"
+   ]
+  },
+  {
+   "title": "Ava turns five",
+   "story": "A treasure hunt round the garden.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2024,
+    "month": 3,
+    "day": 30
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "074-ava-turns-five-1.jpg"
+   ]
+  },
+  {
+   "title": "Bluebell woods",
+   "story": "Carpets of blue and Leo running ahead.",
+   "place": "Leigh Woods",
+   "when": {
+    "precision": "day",
+    "year": 2024,
+    "month": 4,
+    "day": 20
+   },
+   "favourite": true,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Leo's first words",
+   "story": "Pepper. Of course.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2024,
+    "month": 5,
+    "day": 18
+   },
+   "favourite": true,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Goa with the grandparents",
+   "story": "Mangoes, monsoon clouds and a very warm sea.",
+   "place": "Goa",
+   "when": {
+    "precision": "day",
+    "year": 2024,
+    "month": 7,
+    "day": 6
+   },
+   "favourite": true,
+   "core": true,
+   "photos": [
+    "077-goa-with-the-grandparents-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "Goa",
+    "latitude": 15.2993,
+    "longitude": 74.124
+   }
+  },
+  {
+   "title": "Spice farm visit",
+   "story": "Ava now insists she can smell cardamom from across the room.",
+   "place": "Ponda, Goa",
+   "when": {
+    "precision": "day",
+    "year": 2024,
+    "month": 7,
+    "day": 10
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [],
+   "placeInfo": {
+    "name": "Ponda, Goa",
+    "latitude": 15.4027,
+    "longitude": 74.0078
+   }
+  },
+  {
+   "title": "Building a treehouse",
+   "story": "Wonky but standing. Ava named it Crow's Rest.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2024,
+    "month": 9,
+    "day": 14
+   },
+   "favourite": true,
+   "core": false,
+   "photos": [
+    "079-building-a-treehouse-1.jpg"
+   ]
+  },
+  {
+   "title": "Leaf pile jumping",
+   "story": "The best pile of the year.",
+   "place": "Ashton Court",
+   "when": {
+    "precision": "day",
+    "year": 2024,
+    "month": 10,
+    "day": 26
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "080-leaf-pile-jumping-1.jpg"
+   ]
+  },
+  {
+   "title": "Shortest day lantern walk",
+   "story": "Homemade lanterns and cocoa at the end.",
+   "place": "Bristol",
+   "when": {
+    "precision": "day",
+    "year": 2024,
+    "month": 12,
+    "day": 21
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "081-shortest-day-lantern-walk-1.jpg"
+   ]
+  },
+  {
+   "title": "Ava learned to read",
+   "story": "Bedtime stories now go both ways.",
+   "place": "Home",
+   "when": {
+    "precision": "year",
+    "year": 2024,
+    "month": 7,
+    "day": 1
+   },
+   "favourite": true,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Pancake breakfast tradition",
+   "story": "Saturday pancakes, now with chocolate chips by popular demand.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2025,
+    "month": 2,
+    "day": 8
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "083-pancake-breakfast-tradition-1.jpg"
+   ]
+  },
+  {
+   "title": "Kite on the hill",
+   "story": "It finally flew. Leo shouted at it the whole time.",
+   "place": "Purdown",
+   "when": {
+    "precision": "day",
+    "year": 2025,
+    "month": 3,
+    "day": 15
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "084-kite-on-the-hill-1.jpg"
+   ]
+  },
+  {
+   "title": "Ten years since we met",
+   "story": "Back to the café by the water. It's a bike shop now. We laughed anyway.",
+   "place": "Bristol Harbourside",
+   "when": {
+    "precision": "day",
+    "year": 2025,
+    "month": 5,
+    "day": 10
+   },
+   "favourite": true,
+   "core": true,
+   "photos": [],
+   "placeInfo": {
+    "name": "Bristol Harbourside",
+    "latitude": 51.449,
+    "longitude": -2.598
+   }
+  },
+  {
+   "title": "Midsummer in the garden",
+   "story": "Dinner outside until the bats came out.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2025,
+    "month": 6,
+    "day": 21
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "086-midsummer-in-the-garden-1.jpg"
+   ]
+  },
+  {
+   "title": "Rock pooling",
+   "story": "Crabs, anemones and a starfish Ava named Steve.",
+   "place": "Gower",
+   "when": {
+    "precision": "day",
+    "year": 2025,
+    "month": 7,
+    "day": 19
+   },
+   "favourite": true,
+   "core": false,
+   "photos": [
+    "087-rock-pooling-1.jpg",
+    "087-rock-pooling-2.jpg"
+   ],
+   "placeInfo": {
+    "name": "Gower",
+    "latitude": 51.57,
+    "longitude": -4.15
+   }
+  },
+  {
+   "title": "Leo learns to ride a bike",
+   "story": "Off with no stabilisers on the third try.",
+   "place": "Park",
+   "when": {
+    "precision": "day",
+    "year": 2025,
+    "month": 8,
+    "day": 30
+   },
+   "favourite": true,
+   "core": true,
+   "photos": [
+    "088-leo-learns-to-ride-a-bike-1.jpg"
+   ]
+  },
+  {
+   "title": "Pumpkin patch",
+   "story": "Leo picked one bigger than him.",
+   "place": "Farm",
+   "when": {
+    "precision": "day",
+    "year": 2025,
+    "month": 10,
+    "day": 18
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "089-pumpkin-patch-1.jpg"
+   ]
+  },
+  {
+   "title": "Snow at Grandma's",
+   "story": "The first proper snow in years.",
+   "place": "Herefordshire",
+   "when": {
+    "precision": "day",
+    "year": 2025,
+    "month": 12,
+    "day": 20
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Pepper's grey whiskers",
+   "story": "Slower on walks now, still first to the door.",
+   "place": "Home",
+   "when": {
+    "precision": "year",
+    "year": 2025,
+    "month": 7,
+    "day": 1
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "New year, new notebook",
+   "story": "Wrote down the three things we want to do together this year.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2026,
+    "month": 1,
+    "day": 3
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Winter beach walk",
+   "story": "Wind, waves and chips on the sea wall.",
+   "place": "Weston-super-Mare",
+   "when": {
+    "precision": "day",
+    "year": 2026,
+    "month": 1,
+    "day": 17
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "093-winter-beach-walk-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "Weston-super-Mare",
+    "latitude": 51.346,
+    "longitude": -2.977
+   }
+  },
+  {
+   "title": "Ava's science fair",
+   "story": "A volcano that actually erupted.",
+   "place": "Primary school",
+   "when": {
+    "precision": "day",
+    "year": 2026,
+    "month": 2,
+    "day": 28
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "094-ava-s-science-fair-1.jpg"
+   ]
+  },
+  {
+   "title": "Ava turns seven",
+   "story": "Seven candles and a wish she wouldn't tell.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2026,
+    "month": 3,
+    "day": 30
+   },
+   "favourite": true,
+   "core": false,
+   "photos": [
+    "095-ava-turns-seven-1.jpg"
+   ]
+  },
+  {
+   "title": "Planting the apple tree",
+   "story": "One for each of them, so it'll have to be two.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2026,
+    "month": 5,
+    "day": 2
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "096-planting-the-apple-tree-1.jpg"
+   ]
+  },
+  {
+   "title": "Camping by the lake",
+   "story": "Fishing for nothing and loving it.",
+   "place": "Llyn Padarn",
+   "when": {
+    "precision": "day",
+    "year": 2026,
+    "month": 6,
+    "day": 13
+   },
+   "favourite": true,
+   "core": false,
+   "photos": [
+    "097-camping-by-the-lake-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "Llyn Padarn",
+    "latitude": 53.122,
+    "longitude": -4.129
+   }
+  },
+  {
+   "title": "Leo turns four",
+   "story": "Firefighter party. Pepper wore a helmet.",
+   "place": "Home",
+   "when": {
+    "precision": "day",
+    "year": 2026,
+    "month": 7,
+    "day": 11
+   },
+   "favourite": false,
+   "core": false,
+   "photos": []
+  },
+  {
+   "title": "Waterfall hike in the rain",
+   "story": "Soaked to the skin and grinning. The falls were roaring.",
+   "place": "Brecon Beacons",
+   "when": {
+    "precision": "day",
+    "year": 2026,
+    "month": 8,
+    "day": 15
+   },
+   "favourite": true,
+   "core": false,
+   "photos": [
+    "099-waterfall-hike-in-the-rain-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "Brecon Beacons",
+    "latitude": 51.77,
+    "longitude": -3.59
+   },
+   "video": "099-waterfall-hike-in-the-rain.mp4"
+  },
+  {
+   "title": "Autumn falls walk",
+   "story": "A cold walk to the falls, with hot chocolate after.",
+   "place": "Brecon Beacons",
+   "when": {
+    "precision": "day",
+    "year": 2026,
+    "month": 9,
+    "day": 26
+   },
+   "favourite": false,
+   "core": false,
+   "photos": [
+    "100-autumn-falls-walk-1.jpg"
+   ],
+   "placeInfo": {
+    "name": "Brecon Beacons",
+    "latitude": 51.77,
+    "longitude": -3.59
+   },
+   "video": "100-autumn-falls-walk.mp4"
+  }
+ ]
+}
